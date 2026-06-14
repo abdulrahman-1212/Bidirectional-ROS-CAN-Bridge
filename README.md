@@ -1,6 +1,4 @@
-Here is a clean, professional, and easy-to-follow `README.md` file for your ROS 2 CAN Bridge project. You can save this directly into the root of your `can_bridge` package.
 
-```markdown
 # ROS 2 CAN Bridge
 
 A high-performance, bidirectional bridge between ROS 2 and Linux SocketCAN, written in modern C++. 
